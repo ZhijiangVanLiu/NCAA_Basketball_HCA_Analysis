@@ -20,9 +20,20 @@ web_scrape_cbb_2019.R:
 
 web_scrape_Div1_2019.R: 
 
+Model II Analysis (Men).R / Model II Analysis (Women).R:
+
+Model I,II ANOVA (Men).R / Model I,II ANOVA (Women).R:
+
 Datasets
 
 Raw_1984_2010.csv: raw dataset scraped from http://www.sports-reference.com/cbb/ by using web_scrape_cbb_2019.R.
 
 MBB_Final_tab_2019.txt: dataset formatted for analysis by using Creating Master Data Set (Men, 2019).R.
 
+Outputs
+
+out_tab_MBB_2019.csv / out_tab_WBB_2018.csv:
+
+ANOVA_tab_MBB_2019.csv / ANOVA_tab_WBB_2018.csv:
+
+Report_190424.pdf:
