@@ -5,15 +5,15 @@ R programs and results from studying the home-court advantage on NCAA Men's and 
 
 **Update Date**: 4/24/2019
 
-**Data source
+**Data source**
 * http://www.sports-reference.com/cbb/ (Men's)
 * https://github.com/octonion/basketball-w (Women's)
 
-**Description
+**Description**
 
 Estimated home-court advantage and team strength parameters by season, using Model II from *Harville and Smith, 1994*, *"The Home-Court Advantage: How Large Is It, and Does It Vary from Team to Team?"*. The model is applied to both Men's and Women's games, but limited to Division I teams and regular season games. The most updated results include Men's model output from 1984-1985 to 2018-2019 season and Women's model output from 2001-2002 to 2017-2018 season.
 
-**Datasets
+**Datasets**
 
 | Name of Dataset | Description |
 | ------------- |:-------------:|
@@ -21,7 +21,7 @@ Estimated home-court advantage and team strength parameters by season, using Mod
 | MBB_Final_tab_2019.txt          | Dataset formatted for analysis by using Creating Master Data Set (Men, 2019).R               |
 | Division1_by_year_1984_2019.csv | list of Division 1 Men's schools, scraped from http://www.sports-reference.com/cbb/ by using web_scrape_Div1_2019.R |
 
-**Outputs
+**Outputs**
 
     out_tab_MBB_2019.csv / out_tab_WBB_2018.csv: team strength and home-court advantage parameters estimated by season for Men's/Women's NCAA basketball games, by using Model II Analysis (Men).R / Model II Analysis (Women).R.
 
