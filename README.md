@@ -15,11 +15,11 @@ Estimated home-court advantage and team strength parameters by season, using Mod
 
 **Datasets**
 
-| Name of Dataset | Description |
-| ------------- |:-------------:|
-| Raw_1984_2010.csv               | Raw dataset scraped from http://www.sports-reference.com/cbb/ by using web_scrape_cbb_2019.R |
-| MBB_Final_tab_2019.txt          | Dataset formatted for analysis by using Creating Master Data Set (Men, 2019).R               |
-| Division1_by_year_1984_2019.csv | list of Division 1 Men's schools, scraped from http://www.sports-reference.com/cbb/ by using web_scrape_Div1_2019.R |
+| Name of Dataset | Description | Output from |
+| ------------- |:-------------:|:-------------:|
+| Raw_1984_2010.csv               | Raw dataset scraped from http://www.sports-reference.com/cbb/ | web_scrape_cbb_2019.R |
+| MBB_Final_tab_2019.txt          | Dataset formatted properly to fit Model II | Creating Master Data Set (Men, 2019).R |
+| Division1_by_year_1984_2019.csv | list of Division I Men's schools, scraped from http://www.sports-reference.com/cbb/ | web_scrape_Div1_2019.R |
 
 **Outputs**
 
