@@ -21,10 +21,11 @@ Estimated home-court advantage and team strength parameters by season, using Mod
 | MBB_Final_tab_2019.txt          | Dataset formatted properly to fit Model II | Creating Master Data Set (Men, 2019).R |
 | Division1_by_year_1984_2019.csv | list of Division I Men's schools, scraped from http://www.sports-reference.com/cbb/ | web_scrape_Div1_2019.R |
 
-**Outputs**
+**Model Outputs**
 
-    out_tab_MBB_2019.csv / out_tab_WBB_2018.csv: team strength and home-court advantage parameters estimated by season for Men's/Women's NCAA basketball games, by using Model II Analysis (Men).R / Model II Analysis (Women).R.
-
-    ANOVA_tab_MBB_2019.csv / ANOVA_tab_WBB_2018.csv: ANOVA tables of Model I vs. Model II by season for Men's/Women's NCAA basketball games, by using Model I,II ANOVA (Men).R / Model I,II ANOVA (Women).R.
-
-    Report_190424.pdf: a summary of home-court advantage yearly trend, Division I team counts and Top 10 teams with the most Top 10 strength measure in a season.
+| Name of Output File | Description | Output from |
+| ------------- |:-------------:|:-------------:|
+| out_tab_MBB_2019.csv | Team strength and home-court advantage parameters estimated by season for Men's NCAA basketball games | Model II Analysis (Men).R |
+| out_tab_WBB_2018.csv | Team strength and home-court advantage parameters estimated by season for Women's NCAA basketball games | Model II Analysis (Women).R.
+| ANOVA_tab_MBB_2019.csv | ANOVA tables of Model I vs. Model II by season for Men's NCAA basketball games | Model I,II ANOVA (Men).R |
+| ANOVA_tab_WBB_2018.csv | ANOVA tables of Model I vs. Model II by season for Women's NCAA basketball games | Model I,II ANOVA (Women).R | Report_190424.pdf | A summary of home-court advantage yearly trend, Division I team counts and Top 10 teams with the most Top 10 strength measure in a season | |
