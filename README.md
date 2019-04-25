@@ -6,9 +6,8 @@ Author: Zhijiang (Van) Liu
 Update Date: 4/24/2019
 
 Data source
-
-    http://www.sports-reference.com/cbb/ (Men's)
-    https://github.com/octonion/basketball-w (Women's)
+..* http://www.sports-reference.com/cbb/ (Men's)
+..* https://github.com/octonion/basketball-w (Women's)
 
 Description
 
