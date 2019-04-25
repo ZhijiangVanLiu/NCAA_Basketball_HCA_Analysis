@@ -28,4 +28,5 @@ Estimated home-court advantage and team strength parameters by season, using Mod
 | out_tab_MBB_2019.csv | Team strength and home-court advantage parameters estimated by season for Men's NCAA basketball games | Model II Analysis (Men).R |
 | out_tab_WBB_2018.csv | Team strength and home-court advantage parameters estimated by season for Women's NCAA basketball games | Model II Analysis (Women).R.
 | ANOVA_tab_MBB_2019.csv | ANOVA tables of Model I vs. Model II by season for Men's NCAA basketball games | Model I,II ANOVA (Men).R |
-| ANOVA_tab_WBB_2018.csv | ANOVA tables of Model I vs. Model II by season for Women's NCAA basketball games | Model I,II ANOVA (Women).R | Report_190424.pdf | A summary of home-court advantage yearly trend, Division I team counts and Top 10 teams with the most Top 10 strength measure in a season | |
+| ANOVA_tab_WBB_2018.csv | ANOVA tables of Model I vs. Model II by season for Women's NCAA basketball games | Model I,II ANOVA (Women).R |
+| Report_190424.pdf | A summary of home-court advantage yearly trend, Division I team counts and Top 10 teams with the most Top 10 strength measure in a season | |
