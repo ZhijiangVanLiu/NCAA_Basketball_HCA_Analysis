@@ -27,7 +27,7 @@ Estimated home-court advantage and team strength parameters by season, using Mod
 | Raw_MBB_1984_2019.zip | Compressed raw dataset scraped from http://www.sports-reference.com/cbb/ | web_scrape_cbb_2019.R |
 | MBB_Final_tab_2019.txt | Dataset for Men's Basketball games formatted properly to fit Model II | Creating Master Data Set (Men, 2019).R |
 | Division1_by_year_1984_2019.csv | List of Division I Men's schools, scraped from http://www.sports-reference.com/cbb/ | web_scrape_Div1_2019.R |
-| tournament_start_dateM.csv | Start date of Men's NCAA tournament by season, used to retain just regular season games | | 
+| tournament_start_dateM.csv | Start date of Men's NCAA tournament by season, used to retain just regular season games | Manually | 
 
 **/Men/Output**
 
@@ -41,7 +41,7 @@ Estimated home-court advantage and team strength parameters by season, using Mod
 | Name of Dataset | Description | Output from |
 | ------------- |:-------------:|:-------------:|
 | WBB_tab.txt | Dataset for Women's Basketball games formatted properly to fit Model II | Creating Master Data Set (Women).R |
-| tournament_start_dateW.csv | Start date of Women's NCAA tournament by season, used to retain just regular season games | | 
+| tournament_start_dateW.csv | Start date of Women's NCAA tournament by season, used to retain just regular season games | Manually | 
 
 **/Women/Output**
 
