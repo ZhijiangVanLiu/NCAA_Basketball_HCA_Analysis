@@ -41,6 +41,7 @@ Estimated home-court advantage and team strength parameters by season, using Mod
 | Name of Dataset | Description | Output from |
 | ------------- |:-------------:|:-------------:|
 | WBB_tab.txt | Dataset for Women's Basketball games formatted properly to fit Model II | Creating Master Data Set (Women).R |
+| Div_1_WBB_list.txt | List of Division I Women' schools by season | Creating Master Data Set (Women).R |
 | tournament_start_dateW.csv | Start date of Women's NCAA tournament by season, used to retain just regular season games | Manually | 
 
 **/Women/Output**
